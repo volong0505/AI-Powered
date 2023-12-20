@@ -17,7 +17,7 @@ const CanvasModel = () => {
 
         <CameraRig>
           <Backdrop/>
-          <Center>
+          <Center>Customize It
             <Shirt/>
           </Center>
         </CameraRig>
